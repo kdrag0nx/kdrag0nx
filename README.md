@@ -16,8 +16,8 @@ Welcome all :))😀 <p align="left"><img width="100" src="https://github.githuba
 
 
 
-<p align="left"><a href="https://github.com/amitkv1212"><img src="https://github-readme-stats.vercel.app/api?username=amitkv1212&show_icons=true&theme=cobalt"></a></p>
-<p align="left"><a href="https://github.com/amitkv1212"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amitkv1212&theme=cobalt&layout=compact"></a></p>
+<p align="left"><a href="https://github.com/kdragon03"><img src="https://github-readme-stats.vercel.app/api?username=kdragon03&show_icons=true&theme=cobalt"></a></p>
+<p align="left"><a href="https://github.com/kdragon03"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kdragon03&theme=cobalt&layout=compact"></a></p>
 
 [![forthebadge](http://forthebadge.com/images/badges/made-with-ruby.svg)](http://forthebadge.com)
 [![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)](http://forthebadge.com)
