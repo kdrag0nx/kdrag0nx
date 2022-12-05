@@ -12,7 +12,7 @@ Welcome all :))😀 <p align="left"><img width="100" src="https://github.githuba
 - ⚡ Fun fact: I spend 10 hours listening to _spotify_ everyday
 
 
-![](https://komarev.com/ghpvc/?username=amitkv1212)
+![](https://komarev.com/ghpvc/?username=amitkv1212&color=blueviolet)
 
   <p align="left">
     <a href="https://github.com/kdragon03/github-readme-streak-stats">
