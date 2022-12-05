@@ -14,6 +14,10 @@ Welcome all :))😀 <p align="left"><img width="100" src="https://github.githuba
 
 ![](https://komarev.com/ghpvc/?username=amitkv1212)
 
+  <p align="left">
+    <a href="https://github.com/kdragon03/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="kdragon03 streak" src="https://github-readme-streak-stats.herokuapp.com/?user=kdragon03&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
 
 
 <p align="left"><a href="https://github.com/kdragon03"><img src="https://github-readme-stats.vercel.app/api?username=kdragon03&show_icons=true&theme=cobalt"></a></p>
