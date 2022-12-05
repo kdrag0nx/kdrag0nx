@@ -23,12 +23,14 @@ Welcome all :))😀 <p align="left"><img width="100" src="https://github.githuba
 <p align="left"><a href="https://github.com/kdragon03"><img src="https://github-readme-stats.vercel.app/api?username=kdragon03&show_icons=true&theme=cobalt"></a></p>
 <p align="left"><a href="https://github.com/kdragon03"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kdragon03&theme=cobalt&layout=compact"></a></p>
 
-[![forthebadge](http://forthebadge.com/images/badges/made-with-ruby.svg)](http://forthebadge.com)
 [![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)](http://forthebadge.com)
+
+[![forthebadge](https://forthebadge.com/images/badges/uses-js.svg)](https://forthebadge.com)
+[![forthebadge](http://forthebadge.com/images/badges/made-with-ruby.svg)](http://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/made-with-markdown.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/made-with-java.svg)](https://forthebadge.com)
-[![forthebadge](https://forthebadge.com/images/badges/uses-js.svg)](https://forthebadge.com)
+
 
 
 <h3 align="left">Languages and Tools:</h3>
