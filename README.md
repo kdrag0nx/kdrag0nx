@@ -1,4 +1,4 @@
-### Hola!! I am Amit Kumar(amitkv1212)👋, (@kdragon03 is my username and this is my profile -
+### Hola!! I am Amit Kumar(amitkv1212)👋 this is my profile -
 Welcome all :))😀 <p align="left"><img width="100" src="https://github.githubassets.com/images/mona-whisper.gif"></p>
 ![](https://raw.githubusercontent.com/anandshivam44/anandshivam44/main/me.gif)
 
@@ -15,13 +15,13 @@ Welcome all :))😀 <p align="left"><img width="100" src="https://github.githuba
 ![](https://komarev.com/ghpvc/?username=amitkv1212&color=blueviolet)
 
   <p align="left">
-    <a href="https://github.com/kdragon03/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="kdragon03 streak" src="https://github-readme-streak-stats.herokuapp.com/?user=kdragon03&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    <a href="https://github.com/amitkv1212/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="amitkv1212 streak" src="https://github-readme-streak-stats.herokuapp.com/?user=amitkv1212&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 
 
-<p align="left"><a href="https://github.com/kdragon03"><img src="https://github-readme-stats.vercel.app/api?username=kdragon03&show_icons=true&theme=cobalt"></a></p>
-<p align="left"><a href="https://github.com/kdragon03"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kdragon03&theme=cobalt&layout=compact"></a></p>
+<p align="left"><a href="https://github.com/amitkv1212"><img src="https://github-readme-stats.vercel.app/api?username=amitkv1212&show_icons=true&theme=cobalt"></a></p>
+<p align="left"><a href="https://github.com/amitkv1212"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amitkv1212&theme=cobalt&layout=compact"></a></p>
 
 [![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)](http://forthebadge.com)
 
