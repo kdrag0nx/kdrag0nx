@@ -20,9 +20,6 @@ Welcome all :))😀 <p align="left"><img width="100" src="https://github.githuba
     </a>
 
 
-<p align="left"><a href="https://github.com/amitkv1212"><img src="https://github-readme-stats.vercel.app/api?username=amitkv1212&show_icons=true&theme=cobalt"></a></p>
-<p align="left"><a href="https://github.com/amitkv1212"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amitkv1212&theme=cobalt&layout=compact"></a></p>
-
 [![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)](http://forthebadge.com)
 
 [![forthebadge](https://forthebadge.com/images/badges/uses-js.svg)](https://forthebadge.com)
