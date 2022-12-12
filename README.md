@@ -1,7 +1,7 @@
 ### Hola!! I am Amit Kumar(amitkv1212)👋 this is my profile -
 Welcome all :))😀 <p align="left"><img width="100" src="https://github.githubassets.com/images/mona-whisper.gif"></p>
 
-<h3>MY QUOTE<h3><p> When people are jealous of you, clearly you are hustling :) <p>
+
 
 ![](https://raw.githubusercontent.com/anandshivam44/anandshivam44/main/me.gif)
 
