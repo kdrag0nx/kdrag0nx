@@ -1,4 +1,4 @@
-### Hola!! I am Amit Kumar(amitkv1212)👋 this is my profile -
+### Hola!! I am *Amit Kumar(amitkv1212) aka Kdragon03*👋 this is my profile -
 Welcome all 😀 <p align="left"><img width="100" src="https://github.githubassets.com/images/mona-whisper.gif"></p>
 
 
@@ -34,6 +34,9 @@ Welcome all 😀 <p align="left"><img width="100" src="https://github.githubasse
 [![forthebadge](https://forthebadge.com/images/badges/made-with-markdown.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/made-with-java.svg)](https://forthebadge.com)
 
+  ### 🏆 Github Profile Trophy
+
+[<img src="https://github-profile-trophy.vercel.app/?username=amitkv1212&theme=darkhub&no-bg=true&row=1" alt="amitkv1212" />](#)
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -70,5 +73,7 @@ Welcome all 😀 <p align="left"><img width="100" src="https://github.githubasse
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> &nbsp;&nbsp;
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> &nbsp;&nbsp;
   <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> </p>
+  
+  
   
   
