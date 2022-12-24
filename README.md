@@ -17,6 +17,8 @@ Welcome all 😀 <p align="left"><img width="100" src="https://github.githubasse
 
 ![](https://komarev.com/ghpvc/?username=amitkv1212&color=blueviolet)
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={amitkv1212}&theme=vue)
+
 ![](https://github-readme-stats.vercel.app/api?username=amitkv1212&show_icons=true&include_all_commits=true&theme=radical)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=amitkv1212&layout=compact&langs_count=10&theme=radical)
 
