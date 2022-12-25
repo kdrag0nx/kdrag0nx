@@ -17,13 +17,13 @@ Welcome all 😀 <p align="left"><img width="100" src="https://github.githubasse
 
 ![](https://komarev.com/ghpvc/?username=amitkv1212&color=blueviolet)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={amitkv1212}&theme=vue)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={kdrag0nX}&theme=vue)
 
-![](https://github-readme-stats.vercel.app/api?username=amitkv1212&show_icons=true&include_all_commits=true&theme=radical)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=amitkv1212&layout=compact&langs_count=10&theme=radical)
+![](https://github-readme-stats.vercel.app/api?username=kdrag0nX&show_icons=true&include_all_commits=true&theme=radical)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kdrag0nX&layout=compact&langs_count=10&theme=radical)
 
   <p align="left">
-    <a href="https://github.com/amitkv1212/github-readme-streak-stats">
+    <a href="https://github.com/kdrago0nX/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="amitkv1212 streak" src="https://github-readme-streak-stats.herokuapp.com/?user=amitkv1212&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 
