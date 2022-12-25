@@ -22,10 +22,8 @@ Welcome all 😀 <p align="left"><img width="100" src="https://github.githubasse
 ![](https://github-readme-stats.vercel.app/api?username=kdrag0nX&show_icons=true&include_all_commits=true&theme=radical)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kdrag0nX&layout=compact&langs_count=10&theme=radical)
 
-  <p align="left">
-    <a href="https://github.com/amitkv1212/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="amitkv1212 streak" src="https://github-readme-streak-stats.herokuapp.com/?user=amitkv1212&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
+
+
 
 
 [![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)](http://forthebadge.com)
@@ -38,7 +36,7 @@ Welcome all 😀 <p align="left"><img width="100" src="https://github.githubasse
 
   ### 🏆 Github Profile Trophy
 
-[<img src="https://github-profile-trophy.vercel.app/?username=amitkv1212&theme=darkhub&no-bg=true&row=1" alt="amitkv1212" />](#)
+[<img src="https://github-profile-trophy.vercel.app/?username=kdrag0nX&theme=darkhub&no-bg=true&row=1" alt="kdrag0nX" />](#)
 
 
 <h3 align="left">Languages and Tools:</h3>
