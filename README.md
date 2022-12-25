@@ -23,7 +23,7 @@ Welcome all 😀 <p align="left"><img width="100" src="https://github.githubasse
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kdrag0nX&layout=compact&langs_count=10&theme=radical)
 
   <p align="left">
-    <a href="https://github.com/kdrago0nX/github-readme-streak-stats">
+    <a href="https://github.com/amitkv1212/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="amitkv1212 streak" src="https://github-readme-streak-stats.herokuapp.com/?user=amitkv1212&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 
