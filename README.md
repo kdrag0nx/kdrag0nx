@@ -7,7 +7,7 @@ Welcome all 😀 <p align="left"><img width="100" src="https://github.githubasse
 - 💬 Ask me about Tech Stuffs
 - 📫 How to reach me: email: kamitverma22@gmail.com
 - 😄 Pronouns: He/His
-- 😇 Song Taste : Punjabi, HINDI, English
+- ✌️ Song Taste : Punjabi, HINDI, English
 
 ![](https://komarev.com/ghpvc/?username=kdrag0nX&color=blueviolet)
 
