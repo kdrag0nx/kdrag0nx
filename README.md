@@ -1,28 +1,21 @@
 ### Hola!! I am *Amit Kumar(amitkv1212) aka kdrag0nX*👋 this is my profile -
 Welcome all 😀 <p align="left"><img width="100" src="https://github.githubassets.com/images/mona-whisper.gif"></p>
 
-
-
-![](https://raw.githubusercontent.com/anandshivam44/anandshivam44/main/me.gif)
-
 🔭 I’m currently working on **WEB CHAT PROJECT**
 - 🌱 I’m currently learning `backend web algorithm`.
 - 👯 I’m looking to collaborate on **_Youtube_**
-- 🤔 I’m looking for help with ..
 - 💬 Ask me about Tech Stuffs
 - 📫 How to reach me: email: kamitverma22@gmail.com
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I spend 10 hours listening to _spotify_ everyday
-
 
 ![](https://komarev.com/ghpvc/?username=amitkv1212&color=blueviolet)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={kdrag0nX}&theme=vue)
 
-![](https://github-readme-stats.vercel.app/api?username=kdrag0nX&show_icons=true&include_all_commits=true&theme=radical)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kdrag0nX&layout=compact&langs_count=10&theme=radical)
-
-
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kdrag0nX&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kdrag0nX&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kdrag0nX&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kdrag0nX&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kdrag0nX&theme=github)
 
 
 
