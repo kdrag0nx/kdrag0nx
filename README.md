@@ -8,7 +8,12 @@ Welcome all 😀 <p align="left"><img width="100" src="https://github.githubasse
 - 📫 How to reach me: email: kamitverma22@gmail.com
 - 😄 Pronouns: He/His
 
-![](https://komarev.com/ghpvc/?username=amitkv1212&color=blueviolet)
+![](https://komarev.com/ghpvc/?username=kdrag0nX&color=blueviolet)
+
+<p align="left">
+    <a href="https://github.com/kdrag0nX/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="kdrag0nX streak" src="https://github-readme-streak-stats.herokuapp.com/?user=kdrag0nX&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
 
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kdrag0nX&theme=github)
