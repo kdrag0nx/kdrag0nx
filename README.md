@@ -76,5 +76,7 @@ Welcome all 😀 <p align="left"><img width="100" src="https://github.githubasse
   <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> </p>
   
   
-  
+  ## 📫 Get in touch
+[![Telegram](https://img.shields.io/badge/%40Kdrag0nX-0088cc?style=flat-square&logo=telegram&logoColor=ffffff)](https://t.me/Kyuofox)
+[![Email](https://img.shields.io/badge/kamitverma22%40gmail%2ecom-3873C4?style=flat-square&logo=thunderbird&logoColor=ffffff)](mailto:88403766@qq.com)
   
