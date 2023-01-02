@@ -77,6 +77,6 @@ Welcome all 😀 <p align="left"><img width="100" src="https://github.githubasse
   
   
   ## 📫 Get in touch
-[![Telegram](https://img.shields.io/badge/%40Kdrag0nX-0088cc?style=flat-square&logo=telegram&logoColor=ffffff)](https://t.me/Kyuofox)
-[![Email](https://img.shields.io/badge/kamitverma22%40gmail%2ecom-3873C4?style=flat-square&logo=thunderbird&logoColor=ffffff)](mailto:88403766@qq.com)
+[![Telegram](https://img.shields.io/badge/%40Kdrag0nX-0088cc?style=flat-square&logo=telegram&logoColor=ffffff)](https://telegram.me/kdrag0nx)
+[![Email](https://img.shields.io/badge/kamitverma22%40gmail%2ecom-3873C4?style=flat-square&logo=thunderbird&logoColor=ffffff)](mailto:kamitverma22@gmail.com)
   
