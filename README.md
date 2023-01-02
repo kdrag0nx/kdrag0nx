@@ -1,7 +1,7 @@
 ### Hola!! I am *Amit Kumar(amitkv1212) aka kdrag0nX*👋 this is my profile -
 Welcome all 😀 <p align="left"><img width="100" src="https://github.githubassets.com/images/mona-whisper.gif"></p>
 
-# Adding this Line on 1st January 2023 
+(# Adding this Line on 1st January 2023) 
 
 🔭 I’m currently working on **WEB CHAT PROJECT**
 - 🌱 I’m currently learning `backend web algorithm`.
