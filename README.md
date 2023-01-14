@@ -1,4 +1,4 @@
-### Hola!! I am *Amit Kumar(amitkv1212) aka kdrag0nX*👋 this is my profile -
+### Hola!! I am *Amit Kumar(amitkv1212)*👋 this is my profile -
 Welcome all 😀 <p align="left"><img width="100" src="https://github.githubassets.com/images/mona-whisper.gif"></p>
 
 (# Adding this Line on 1st January 2023) 
