@@ -3,41 +3,10 @@ Welcome all 😀 <p align="left"><img width="100" src="https://github.githubasse
 
 (# Adding this Line on 1st January 2023) 
 
-🔭 I’m currently working on **WEB CHAT PROJECT**
-- 🌱 I’m currently learning `backend web algorithm`.
-- 👯 I’m looking to collaborate on **_Youtube_**
-- 💬 Ask me about Tech Stuffs
-- 📫 How to reach me: email: kamitverma22@gmail.com
-- 😄 Pronouns: He/His
-- ✌️ Song Taste : Punjabi, HINDI, English
 
 ![](https://komarev.com/ghpvc/?username=kdrag0nX&color=blueviolet)
 
-
-
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kdrag0nX&theme=github)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kdrag0nX&theme=github)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kdrag0nX&theme=github)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kdrag0nX&theme=github)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kdrag0nX&theme=github)
-
-
-
-[![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)](http://forthebadge.com)
-
-[![forthebadge](https://forthebadge.com/images/badges/uses-js.svg)](https://forthebadge.com)
-[![forthebadge](http://forthebadge.com/images/badges/made-with-ruby.svg)](http://forthebadge.com)
-[![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com)
-[![forthebadge](https://forthebadge.com/images/badges/made-with-markdown.svg)](https://forthebadge.com)
-[![forthebadge](https://forthebadge.com/images/badges/made-with-java.svg)](https://forthebadge.com)
-
-  ### 🏆 Github Profile Trophy
-
-[<img src="https://github-profile-trophy.vercel.app/?username=kdrag0nX&theme=darkhub&no-bg=true&row=1" alt="kdrag0nX" />](#)
-
-
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools Used so far:</h3>
 <p align="left"> 
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> &nbsp;&nbsp;
   <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> &nbsp;&nbsp;
