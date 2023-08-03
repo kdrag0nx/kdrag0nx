@@ -1,4 +1,3 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=kdrag0nx&include_all_commits=true&show_icons=true&theme=buefy&count_private=true&hide_border=true" />
 
 ### Hi there 👋 I'm Amit K(@kdrag0nx)
 - 🌱 I’m learning Android~
